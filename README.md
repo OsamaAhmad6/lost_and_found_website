@@ -26,7 +26,7 @@ LostAndFound is a platform that connects people who have lost their belongings w
 Meet the passionate individuals behind LostAndFound:
 
 - **Mohammad Kashif:** Web Developer _(Me)_ 🤩
-- **Amna Saleem:** CHIEF EXECUTIVE OFFICER (CEO)
+- **Osama Ahmad:** CHIEF EXECUTIVE OFFICER (CEO)
 - **Sidra Khan:** CHIEF FINANCIAL OFFICER (CFO)
 
 ## Getting Started
@@ -68,17 +68,13 @@ The LostAndFound project is licensed under the [MIT License](LICENSE.md). Feel f
 ## 🔗 Contact
 If you have any questions, suggestions, or feedback, please feel free to reach out to us:
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dribbble.com/Kashif420)
+[![linkedin](www.linkedin.com/in/osama-ahmad-b42541250](https://www.linkedin.com/in/osama-ahmad-b42541250/)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-kashif-442146214/)
-
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KaxhifKhan)
-
-Email: mrkashi2020@gmail.com
+Email: osamajn6@gmail.com
 
 ## Used By
 
-*This project is used by the University Of Swabi Deptt Of Computer Science*
+*This project is used by the University Of Swabi Department of Computer Science*
 
 
 `We appreciate your support and hope you enjoy using Lost-And-Found`
